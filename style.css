@@ -11,3 +11,17 @@ h1{
     color: purple;
     font-size: 25px;
 }
+
+h2{
+    border: 5px  purple;
+    margin: 0px;
+    padding: 20px;
+    background-color: purple;
+    color:antiquewhite;
+    font-size: 30;
+}
+
+ul > li{
+    color: purple;
+    font-size: 20px;
+}
