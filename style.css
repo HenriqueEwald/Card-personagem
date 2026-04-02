@@ -1,27 +1,31 @@
+main{
+    background-color: rgb(3, 58, 141);
+}
+
 h1{
-    border: 5px  purple;
+    border: 5px  solid rgb(3, 58, 141);
     margin: 0px;
     padding: 20px;
-    background-color: purple;
-    color:antiquewhite;
+    background-color: rgb(2, 40, 97);
+    color:rgb(221, 206, 186);
     font-size: 40px;
 }
 
 .descricao{
-    color: purple;
+    color: rgb(221, 206, 186);
     font-size: 25px;
 }
 
 h2{
-    border: 5px  purple;
+    border: 5px  rgb(2, 40, 97);
     margin: 0px;
     padding: 20px;
-    background-color: purple;
+    background-color: rgb(2, 40, 97);
     color:antiquewhite;
     font-size: 30;
 }
 
 ul > li{
-    color: purple;
+    color: rgb(221, 206, 186);
     font-size: 20px;
 }
